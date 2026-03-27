@@ -1,4 +1,4 @@
-require('./lib/check-node-version')
+require('./lib/check-mata-version')
 require('./lib/handle-exceptions')
 require('./lib/feature-flags')
 
