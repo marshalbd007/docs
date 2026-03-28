@@ -1,4 +1,4 @@
-require('./lib/check-ms-version')
+require('./lib/check-node-version')
 require('./lib/handle-exceptions')
 require('./lib/feature-flags')
 
